@@ -1,1 +1,2 @@
-# Concurrency and Synchronization Programming Research
+# Personal Research
+
